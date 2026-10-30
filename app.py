@@ -11,7 +11,7 @@ import streamlit as st
 # ==================================================
 
 st.set_page_config(
-    page_title="RetainIQ | Customer Churn & Retention Engine",
+    page_title="Customer Churn & Retention Engine",
     page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -406,7 +406,7 @@ def prepare_bulk_input(customers):
 st.markdown(
     """
     <div class="hero">
-        <p class="hero-title">RetainIQ: Customer Churn & Retention Engine</p>
+        <p class="hero-title">Customer Churn & Retention Engine</p>
         <p class="hero-sub">
             See which customers are likely to leave and act before they do.
             Check one customer, or upload a CSV to score your whole customer base.
