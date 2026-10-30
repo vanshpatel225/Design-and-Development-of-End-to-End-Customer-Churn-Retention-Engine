@@ -11,13 +11,11 @@ import streamlit as st
 # ==================================================
 
 st.set_page_config(
-    page_title="Customer Churn & Retention Engine",
+    page_title="Customer Churn Detection System",
     page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded",
 )
-
-
 # ==================================================
 # 2. COLOUR PALETTES
 # ==================================================
